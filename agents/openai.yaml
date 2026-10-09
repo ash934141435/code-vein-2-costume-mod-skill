@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Vein 2 Costume Mod Skill"
+  short_description: "Build and validate Code Vein 2 costume replacement mods"
+  default_prompt: "Use this skill to plan and implement a Code Vein 2 costume replacement mod from source assets through in-game deployment."
